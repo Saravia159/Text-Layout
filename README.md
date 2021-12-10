@@ -1,15 +1,13 @@
-### File
+# User Story
 
-* *None*
+As a user, I want to create a text layout with colums and rows, so that the page looks more organized.
 
-### Instruction
+[GitHub repository](https://saravia159.github.io/Text-Layout/)
 
-* Using Bootstrap, create a layout that looks like:
+---
 
-  ![text-layout activity design](text-layout.png)
+# Acceptance Criteria
 
-* **HINT:** Spend some time prior to coding on drawing out the grid layout.
+1. Given that the user is on the webpage, the user will be able to see a well organized page with colums and rows.
 
-* **HINT:** Count the number of rows and columns.
-
-* **HINT:** Then use the bootstrap grid syntax to code it out.
+![Text-layout image](image.jpg)
